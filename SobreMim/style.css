@@ -1,0 +1,18 @@
+
+        body {
+        background-color: #333;  /* Um cinza bem claro */
+        color: #f0f0f0;               /* Um cinza escuro (para o texto) */
+        font-family: Arial, sans-serif; /* Uma fonte mais moderna */
+      }
+      h1{
+        color:#2c80da;
+      }
+      a{
+        color: #007BFF;
+        text-decoration: none;
+      }
+      a:hover{
+        color: #0056b3;
+        text-decoration: underline;
+      }
+    
